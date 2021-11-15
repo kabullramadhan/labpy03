@@ -140,4 +140,4 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 ### TAMPILAN RUN PROGRAM
 
-![program1](image/program1.png)
+![program1](image/program1b.png)
