@@ -1,5 +1,5 @@
 ## Tugas  Praktikum 3
-Kabul Ramdhan | 311810315 | TI.18.B2 | Bahasa Pemrograman
+Kabul Ramadhan | 311810315 | TI.18.B2 | Bahasa Pemrograman
 
 ## Latihan 1
 
